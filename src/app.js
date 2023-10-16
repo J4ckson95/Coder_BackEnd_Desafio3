@@ -12,9 +12,7 @@ app.get("/products", async (req, res) => {
     if (limit) {
         const productsFilter = []
         for (let i = 0; i <= (limit - 1); i++) {
-            console.log(i);
             productsFilter.push(data[i])
-            console.log(productsFilter);
         }
         return res.send(productsFilter)
     } else return res.send(data)

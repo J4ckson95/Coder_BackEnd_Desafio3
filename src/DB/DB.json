@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Archivo de tormentas",
+        "description": "Novela de ciencia fantasia",
+        "price": 134000,
+        "thumbnail": "foto",
+        "code": 2020,
+        "stock": 20,
+        "id": 1
+    },
+    {
+        "title": "Nacidos de la bruma",
+        "description": "Novela de ciencia fantasia",
+        "price": 98000,
+        "thumbnail": "foto",
+        "code": 2021,
+        "stock": 50,
+        "id": 2
+    },
+    {
+        "title": "Ultimo deseo",
+        "description": "Novela de ciencia fantasia",
+        "price": 80000,
+        "thumbnail": "foto",
+        "code": 2022,
+        "stock": 30,
+        "id": 3
+    }
+]
